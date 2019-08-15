@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-08-15 16:32:22</sys_created_on>
+        <sys_id>21ff0b195fd33300a7072e921f4666f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_tests_sa.sn_tests.sa_user</sys_name>
+        <sys_package display_value="tests" source="sn_tests">e8d63d745f533300f81c2e921f466664</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tests">e8d63d745f533300f81c2e921f466664</sys_scope>
+        <sys_security_acl display_value="sn_tests_sa">edff0b195fd33300a7072e921f4666f5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_21ff0b195fd33300a7072e921f4666f9</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-08-15 16:32:22</sys_updated_on>
+        <sys_user_role display_value="sn_tests.sa_user" name="sn_tests.sa_user">95ffc7195fd33300a7072e921f466618</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
