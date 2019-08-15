@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="dsd">4bd03b155f173300a7072e921f4666ad</application>
+        <filter/>
+        <name>dsds</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_tests.dsd_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-08-15 18:56:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8bd03b155f173300a7072e921f4666af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dsds</sys_name>
+        <sys_package display_value="tests" source="sn_tests">e8d63d745f533300f81c2e921f466664</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tests">e8d63d745f533300f81c2e921f466664</sys_scope>
+        <sys_update_name>sys_ui_module_8bd03b155f173300a7072e921f4666af</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-08-15 18:56:06</sys_updated_on>
+        <table>sn_tests_dsd</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
